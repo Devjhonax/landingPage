@@ -273,16 +273,6 @@ ul {
     height: 50vh;
 }
 
-.section5::after {
-    content: "";
-    position: absolute;
-    top: 440%;
-    left: 0;
-    height: 120px;
-    width: 100%;
-    background: linear-gradient(180deg, #1E1E1E, rgba(0, 0, 0, 0.00));
-}
-
 .texto-section5 {
     display: flex;
     flex-direction: column;
