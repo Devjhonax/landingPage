@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-primary: #1E1E1E;
+    --bd-color: #3B3B3B;
+    --bd-color2: #A19A9A;
+    --bd-color3: #D7CDCD;
+    --bg-span1: #7321E3;
+    --bg-span2: #F21818;
+    --gradiante: #626161;
+    --fonte-primaria: "Roboto";
+    --fonte-secundaria: Montserrat;
+}
