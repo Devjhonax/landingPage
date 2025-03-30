@@ -70,7 +70,7 @@ p {
 .section1::before {
     content: "";
     position: absolute;
-    bottom: 53.7%;
+    bottom: 50%;
     left: 0;
     height: 100px;
     width: 100%;
@@ -263,7 +263,7 @@ ul {
 }
 
 .section5 {
-    background-image: url(/img/tecnologia_strade-scaled.jpg);
+    background-image: url(img/tecnologia_strade-scaled.jpg);
     background-color: rgba(0, 0, 0, 0.1);
     background-size: auto;
     padding: 20px 15px;
@@ -276,7 +276,7 @@ ul {
 .section5::after {
     content: "";
     position: absolute;
-    top: 399.8%;
+    top: 410%;
     left: 0;
     height: 120px;
     width: 100%;
