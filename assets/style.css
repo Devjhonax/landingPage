@@ -276,7 +276,7 @@ ul {
 .section5::after {
     content: "";
     position: absolute;
-    top: 410%;
+    top: 420%;
     left: 0;
     height: 120px;
     width: 100%;
